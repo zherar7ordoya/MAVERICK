@@ -1,0 +1,16 @@
+{
+  "name": "maverick",
+  "version": "1.0.0",
+  "description": "Nada, una travesura: una presentación que vi en la instalación de KeystoneJS y que me gustó, y por lo tanto, decidí usarla para mí. Para hacerla, opté por usar ```chalk``` (que ha demostrado ser, sin duda, el más potente colorizador de consola).",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Gerardo Tordoya <zherar7ordoya@outlook.com> (https://github.com/zherar7ordoya)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
